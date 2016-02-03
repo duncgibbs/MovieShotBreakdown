@@ -1,7 +1,8 @@
 import subprocess as sp
 import numpy as np
 import cv2
-import pylab as plt #debug
+#DEBUG
+#import pylab as plt
 import os
 from scipy.spatial import distance as dist
 import sys
